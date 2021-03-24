@@ -10,7 +10,7 @@ function Municipality(props){
     return (
         <Layout>
             <Head>
-                <title>Municipality Of {props.data.title}</title>
+                <title>Municipality Of {props.data.title.toUpperCase()}</title>
                 <meta name="description" content={props.data.content[0]}/>
             </Head>
             <div className="hero is-medium is-bold is-success">

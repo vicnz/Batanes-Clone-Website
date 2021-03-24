@@ -1,4 +1,4 @@
-import {useState} from 'react'
+import {useState, useEffect} from 'react'
 import Link from 'next/link'
 import Alert from '../components/alert'
 
@@ -11,6 +11,12 @@ export default function Navbar(props){
     }
     const showHideAlert = () => {
         toggleAlert(true)
+    }
+    const onKeyDown = (e) => {
+        if(e.key == 'Enter' || e.keyCode === 13){
+            toggleAlert(true)
+            e.target.value=''
+        }
     }
 
     return (
@@ -73,9 +79,21 @@ export default function Navbar(props){
                     </div>
                     <Link href="/about"><a href="/about" className="navbar-item">ABOUT</a></Link>
                 </div>
+
+                <div className="navbar-end">
+                    <div className="navbar-item">
+                        <div className="field is-grouped">
+                            <div className="control has-icons-right">
+                                <input type="search" className="input" placeholder="search..." onKeyDown={onKeyDown}/>
+                                <span className="icon is-right">
+                                    <i className="ri-search-line"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </nav>
-
         </>
     )
 }

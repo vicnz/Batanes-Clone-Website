@@ -15,15 +15,15 @@ a {
 * {
   box-sizing: border-box;
 }
-html{
+body{
   transition: color 300ms, background-color 300ms;
 }
-html[theme='dark-mode']{
+body[data-theme='dark-mode']{
   filter: invert(1) hue-rotate(180deg);
 }
-html[theme="dark-mode"] img{
+body[data-theme="dark-mode"] img{
   filter: invert(1) hue-rotate(180deg);
 }
-html[theme="dark-mode"] .invert{
+body[data-theme="dark-mode"] .invert{
   filter: invert(1) hue-rotate(180deg);
 }
