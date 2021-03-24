@@ -1,0 +1,284 @@
+[
+    {
+        "_id": 0,
+        "title": "Reason To Invest",
+        "description": [],
+        "items": [
+            {
+                "id": 0,
+                "title": "Rich Natural Resources",
+                "descriptions": [
+                    "Nature bestowed a different kind of wealth to the province of Batanes.  Its people, the Ivatans, are wise to recognized their land’s beauty and guard it fiercely from unmanaged modernization.  In fact, the exceptional beauty of Batanes – its rich ecological resources and biodiversity is intertwined with the Ivatan’s cultural values and heritage.",
+                    "The people of Batanes are preserving their past in order to survive the present day challenges.  They are trying to find the perfect balance between upholding ecological and cultural richness and the changes that modernization brings, including economic growth.",
+                    "In 2003, the Philippine Congress declared the whole province as a protected area under the National Integrated Protected Area System (NIPAS).  As such, there are restrictions to certain economic activities which directly impact the natural resources, especially the non-renewable ones.  This is one of the reasons why much of the land remains unspoiled and underdeveloped, which, in turn, as a boon to the eco-cultural tourism industry.  Batanes is developing and promoting as a major economic goal.  In addition to the congressional proclamation, the province is also nominated to the United Educational, Scientific and Cultural Organization (UNESCO) World Heritage List, under the category of cultural landscape."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Business Friendly Environment",
+                "descriptions": [
+                    "Under the Batanes Eco-Cultural Tourism Industry (BECTI) development strategy, the Provincial Government is encouraging sustainable economic activities through the improvement of financial and quasi-financial services and institutions to help and ease business transactions.  It also supports the development of Small-Medium Enterprises (SMEs) and other livelihood initiatives connected to the tourism industry.",
+                    "In addition, the BECTI has provisions for pursuing community-friendly financing strategies.  Local private sector groups and communities will be organized and endorsed in support of tourism-related business ventures.  According to the BECTI plan, “Financing schemes for micro, small, and medium enterprises supportive of tourism and accessible to marginalized groups will be provided.”  And, with the regular influx of tourists, that started in 2006, more and more enterprises will have income opportunities in trading and services."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Productive Human Resources",
+                "descriptions": [
+                    "Among the provinces of Region 2, Batanes holds a record high employment rate of 97 percent.  Almost half of this number is part of the agriculture sector and the rest is employed by the government and other industries.  In terms of educational attainment, the province proudly claims a higher than average literacy rate compared to other provinces in the region.  It also has an adequate pupil-classroom and pupil-teacher ratio in public elementary and secondary levels"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Developing Infastructure",
+                "descriptions": [
+                    "Potable water systems are in place in all municipalities.  The National Power Corporation supplies the electricity to the province, which is distributed by the Batanes Electric Cooperative (BATANELCO)."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Favorable Peace And Order Situation",
+                "descriptions": [
+                    "In the past years, Batanes has maintained a good peace and order situation.  There are no major reported crimes."
+                ]
+            }
+        ]
+    },
+    {
+        "_id": 1,
+        "title": "Priority Investment Areas",
+        "description": [
+            "The province plans to concentrate its efforts on two major industries: the tourism industry and the agriculture and fishery industry.",
+            "Batanes recognizes the viability of converging a great amount of effort towards concretizing the BECTI program within the content of the Regional Development Framework Plan.",
+            "Through the BECTI, the province will develop a hybrid of nature and cultural tourism, formulating its own brand of eco-cultural tourism.  This kind of tourism offers nature-based adventure and heritage conservation activities.  Tourism will also bring about livelihood opportunities for individual business owners to community-based enterprises, such as souvenir handicrafts and food processing for tourist consumption.",
+            "Areas for investment in agriculture are also present.  To sustain food requirements for local communities and the projected increase in tourist arrivals, Batanes needs to increase agricultural productivity and create stable food supplies.  Investment opportunities are wide open in agri-business, particularly through organic farming and production of homegrown crops such as garlic and turmeric.  Investments in aqua culture or in-land fishing are also economically viable because there is lack of sustained fish produce supply once the typhoon season hits.  Efforts are being made to increase livestock and poultry supplies and products, including post-harvest facilities, like ice plants and cold storages."
+        ],
+        "items": [
+            {
+                "id": 0,
+                "title": "Tourism Industry",
+                "description": [
+                    "Batanes Ecological-Cultural Tourism Industry",
+                    "Development of SMEs and other viable industries/livelihood enterprises linked to tourism"
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Agriculture",
+                "description": [
+                    {
+                        "name": "Mechanize Farmning",
+                        "subItems": [
+                            "Corn Production",
+                            "Rice Production"
+                        ]
+                    },
+                    {
+                        "name": "Agri-Business - Organic Production",
+                        "subItems": [
+                            "Vegetables",
+                            "Tubers",
+                            "Spices (Batanes Garlic, Turmeric, Ginger)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Fisheries",
+                "description": [
+                    {
+                        "name": "Commercial Fishing",
+                        "subItems": [
+                            "Production",
+                            "Marketing",
+                            "Aqua-Culture/In-Land Fishing"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Livestock and Poultry",
+                "description": [
+                    "Large Animal",
+                    "Small Ruminants (Goat and Sheep)",
+                    "Swine",
+                    "Poultry (Native Chicken, Broiler, and Egg)"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Integrated Post Harvest Facilities",
+                "description": [
+                    "Ice Plant and Cold Storage",
+                    "Provision of Refrigerated Van"
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Basic Infastracture",
+                "description": [
+                    {
+                        "name": "Ports",
+                        "subItems": [
+                            "Construction of Basco All-Weather Ship Shelter Port",
+                            "Improvement of Municipal Feeder Ports"
+                        ]
+                    },
+                    {
+                        "name": "Water System",
+                        "subItems": [
+                            "Provincial Water Works/Drainage System (Batan Island)",
+                            "Improvement of Municipal Water Works (Itbayat and Sabtang)"
+                        ]
+                    },
+                    {
+                        "name": "Power",
+                        "subItems": [
+                            "Mini-Hydro Power Plant (Batan Island)",
+                            "Hybrid-Wind/Solar Power Plant (Province Wide)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Health",
+                "description": [
+                    "Preventive - PHO and RHU",
+                    "Curative - PHO and DOH"
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Education",
+                "description": [
+                    "Basic Education - Indigenization of the Curriculum"
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Social Welfare",
+                "description": [
+                    "Disadvantage Sector",
+                    "Senior Citizens"
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Forest Management Programs Including Tree Planting",
+                "description": [
+                    "Agro-Forestry (Fruit Trees)",
+                    "Community Based Forestry Projects"
+                ]
+            },
+            {
+                "id": 10,
+                "title": "Coastal Resource Management Programs",
+                "description": [
+                    "Marine Gardens",
+                    "Sanctuaries"
+                ]
+            },
+            {
+                "id": 11,
+                "title": "Quarying",
+                "description": []
+            },
+            {
+                "id": 12,
+                "title": "Solid Waste Management Programs",
+                "description": []
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "title": "Potential Investment Project",
+        "descriptions": [
+            "Given the size and isolation of the province of Batanes, potential investment projects are seen in vital areas, such as seaports, airports, roads and bridges, water systems, and power generation."
+        ],
+        "items": [
+            "There is an urgent need to construct an all weather-ship shelter port in Basco because the province is within the international shipping lane.  With the appropriate development, Batanes can be a viable and valuable transshipment hub that provides safe harbor for cargo and passenger vessels, as well as maritime security.",
+            "The Basco and Itbayat airports needs improvements and upgrade.  Huge investments are also needed to be tapped for an airstrip in Sabtang, to serve tourist arrivals.",
+            "The water systems in Basco, Sabtang and Itbayat require improvement and rehabilitation.  Aside from these, drainage system needs to be developed and constructed in Batan island.",
+            "In terms of strengthening power generation in the province, investments are welcome in the development of renewable energy sources, such as a mini-hydro power plant in Batan island.  There is also a plan to set up a hybrid wind/solar powerplant in the province."
+        ]
+    },
+    {
+        "_id": 3,
+        "title": "One Town One Product",
+        "descriptions": [
+            "The One Town One Product (OTOP) is a priority program of government to promote entrepreneurship and job creation.  OTOP Philippines supports micro, small and medium enterprises (MSMEs) to manufacture, offer and market distinctive products or services through the use of indigenous raw materials and local skills and talents."
+        ],
+        "items": [
+            {
+                "id": 0,
+                "title": "Ecological Tourism",
+                "description": [
+                    "The principle of endemism based on the ecological-cultural and socio-political character of Batanes is the primary basis and foundation of the provincial development strategy to preserve the Ivatan culture and the natural endowments and beauty of the whole environment.",
+                    "The province is developed as a niche market to guard against adverse effects in cultural values, habitation, environment, food supply, and basic social services."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Handicrafts",
+                "description": [
+                    "The Ivatan’s innate creativity and craftsmanship transform Batanes’ indigenous materials and flora into environment-friendly gift items, decorations, housewares, bags and fashion accessories."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Food",
+                "description": [
+                    "On account of Batanes’ geography, farming and fishing are the main sources of food and income of the Ivatans.  Vegetables are raised without the use of chemical fertilizers while root crops have been one of the major agricultural products of the province.  The sea waters, on the other hand, are aplenty, especially from March to May, with dibang (flying fish) and arayo (jacket fish or dorado). The lobsters also make for a truly memorable visit to the province."
+                ]
+            }
+        ],
+        "product_Provincial": "Eco-Tourism",
+        "product_Municipality": [
+            {
+                "id": 0,
+                "municipality": "Basco",
+                "product": "Coconut Production and Processing"
+            },
+            {
+                "id": 1,
+                "municipality": "Itbayat",
+                "product": "Garlic Production"
+            },
+            {
+                "id": 2,
+                "municipality": "Ivana",
+                "product": "Garlic Processing"
+            },
+            {
+                "id": 3,
+                "municipality": "Mahatao",
+                "product": "Turmeric Powder Processing"
+            },
+            {
+                "id": 4,
+                "municipality": "Sabtang",
+                "product": "Fish Production"
+            },
+            {
+                "id": 5,
+                "municipality": "Uyugan",
+                "product": "Mineovaheng (Black Wine) Production"
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "title": "Steps In Doing Business",
+        "descriptions": [
+            "Write and LOI (Letter of Introduction) addressed to the Provincial Governor; LOI should indicate the Project Brief, Articles of Incorporation, and other documents.",
+            "File an LOA (Letter of Application) addressed to the Local Investment Board-Batanes Province Investment Board, through the Batanes Investment Promotions Center (3 copies).",
+            "Submit a Feasibility Study showing that the project is consistent with the goals of identified priority areas (3 copies).",
+            "Get Environmental Clearances from the National Commission of Indigenous Peoples Batanes; Environmental Impact Assessment and the Provincial Environment and Natural Resources Office.",
+            "Secure clearance from PAMB (Protected Area Management Board)."
+        ]
+    }
+]

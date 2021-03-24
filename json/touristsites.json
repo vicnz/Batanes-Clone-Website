@@ -1,0 +1,210 @@
+[
+	{
+		"id": "cultural",
+		"title": "Cultural Sites",
+		"sites": [
+			{
+				"name": "San Carlos Borromeo Church",
+				"desc": "Declared in 2001 by the National Museum and National Commission for Culture and Arts as one of the 26 churches recognized as cultural icons because of their beauty and excellent state of preservation.  It was built in 1873 by Fr. Cresencio Polo using limestone walling in baroque style and cogon roofing."
+			},
+			{
+				"name": "Nakamaya Burial Site",
+				"desc": "These boat-shaped grave markers are testimonies to the beliefs of pre-historic Ivatans who believe in life after death.  The general direction of the burial graves point towards the sea which is man's final resting place, according to Ivatan folktale.  The radiocarbon tests on the human skeletons place it to be somewhere between 355-70 BP."
+			},
+			{
+				"name": "Our Lady of the Immaculate Conception Cathedral",
+				"desc": "The seat of the Roman Catholic Church in the province, this is the first parish church to be built in the province in the early 18th century, made up to cogon grass roofing.  It was also the first to have galvanized iron roofing in the 1890's.  The feast of its patron saint, Sto. Domingo de Guzman, is celebrated by the Ivasays every August 8."
+			},
+			{
+				"name": "Liveng/Hedgerows",
+				"desc": "This quaint quilt-like patterns divide farm lots, protect crops from wind and animals, control soil erosion, host migrant birds and other species, and provide wood and reeds for domestic use.  They constitute, together with land fallowing and organic farming, sustainable agriculture in Batanes.  The reeds are also used as ceiling materials for vernacular Ivatan houses."
+			},
+			{
+				"name": "Racuh-a-idi Old Settlement",
+				"desc": "One of the largest pre-Spanish settlements on the eastern part of Batan island.  Today, one can still see the stone arrangements and rock foundations of the early Ivatan house."
+			},
+			{
+				"name": "San Jose de Obrero Church",
+				"desc": "Built in 1784 by Fr. Jose Fausto de Cuevas, it is the only church in Batanes with a separate belltower constructed 30 years later. The present facade was built by Fr. Fabian Martin in 1866-1869. Located by the coastal area, it is here where katipunero revolutionaries commanded by Captain Perea landed on September 18, 1898 to liberate the province from the Spaniards."
+			},
+			{
+				"name": "Itbud Village",
+				"desc": "This is where the best-tasting local wine called palek comes from and where extant maytuab and sinadumparan houses still stand.  It had the largest population on Batan’s southeastern part in the 18th century due to stable water supply spring and a well-fortified idjang."
+			},
+			{
+				"name": "Savidug Barrio",
+				"desc": "A village which abounds in traditional houses, it is the site where the endangered black face spoonbill was sighted years ago and continues to fly in the area."
+			},
+			{
+				"name": "Chavayan Barrio",
+				"desc": "A visit to Batanes in incomplete without immersing oneself in this village, the cradle of Ivatan culture and heritage. Famous for its rows of old houses, narrow streets, and old sites, Chavayan is likely what will leave lasting memories on your visit. Its chapel, the only church in Batanes still roofed with cogon grass, is a stone’s throw away from the shore and it makes you feel closer to God in this solemn remote place."
+			},
+			{
+				"name": "Sta. Maria Immaculate Church",
+				"desc": "Built in 1845, it took more than 40 years to complete and be blessed in 1888 by Fr. Manuel Blasco."
+			},
+			{
+				"name": "Nahili du Votox",
+				"desc": "An ancient settlement with boat-shaped burial markers. Its Idjang has a spectacular view of Dinem island and eastern Itbayat. It reflects the material cultural remains of ancient maritime people."
+			},
+			{
+				"name": "Torongan Cave",
+				"desc": "The most ancient dwelling place in Batanes, believed to be the first landing place of the Austronesians from Formosa in 4000 BC. The Torongan Hill is an area where stone boat-shaped burial markers are found and is believed to be the burial ground of the cave’s ancient settlers."
+			},
+			{
+				"name": "Torongan Hill",
+				"desc": "An area where stone boat-shaped burial markers are found.  This area is believed to be the burial ground of the ancient settlers of the Torongan cave."
+			},
+			{
+				"name": "Vernacular Houses",
+				"desc": "these are combinations of European and Itbayat architecture with thick walls of stone and lime and several layers of cogon for roofing. These Ivatan houses are adapted for strong typhoons, earthquakes and other calamities, and can withstand the harshest winter winds from December to February."
+			}
+		]
+	},
+	{
+		"id": "historical",
+		"title": "Historical Sites",
+		"sites": [
+			{
+				"name": "Casa Real",
+				"desc": "The site where the Provincial Capitol building now stands.  The original structure was built between the 16th century to 18th century."
+			},
+			{
+				"name": "Naidi Hills",
+				"desc": "An old sitio derived from the Ivatans words 'Na' which means past and 'Idi' which means settlement or community.  Located here are the American-era wireless telegraph facilities which were bombed by Japan during the World War II.  One can also get a breathtaking view of the town atop the hilltop 66-feet lighthouse."
+			},
+			{
+				"name": "Dipnaysuhuan Japanese Tunnel",
+				"desc": "Located in the hills of Tukon, this five-door tunnel, complete with a series of chambers, a bunker that serves as a lookout spot, and a water reservoir, was constructed during the Japanese occupation as a defensive position."
+			},
+			{
+				"name": "Spanish Lighthouse",
+				"desc": "Situated just a few steps away from San Carlos Borromeo Church, it is composed of two vertical structures about 30 meters apart which were manually lighted with fire for local fishermen during the Spanish colonial period."
+			},
+			{
+				"name": "Spanish Bridge",
+				"desc": "Located in the heart of the town, this was constructed during the Spanish period and still being used tom date."
+			},
+			{
+				"name": "House of Dakay",
+				"desc": "probably the most photographed Ivatan house, it was built of lime and stone in 1887 and owned by Luis Estrella who bequeathed it to her favorite nephew, Jose “Dakay” Estrella. A survivor of the destructive earthquake of September 13, 1918 which has destroyed much of the town, its shutters and floor have never been changed and has retained much of its authentic look through the decades."
+			},
+			{
+				"name": "Song-song Ruins",
+				"desc": "Remnants of an old settlement which were ravaged by tsunami in the 1950s.  Residents were given homesteads in Mindanao under the Magsaysay settlement program.  Today, it is a thriving coastal community again."
+			},
+			{
+				"name": "National Museum",
+				"desc": "The repository of the rich ethnology, history and cultural heritage of Batanes and its people. It is used to be an old Long-Range aid to navigation (LORAN) site constructed by the Americans."
+			},
+			{
+				"name": "Idjang",
+				"desc": "This is an ancient Ivatan settlements which served as fortresses against invaders.  The idjang found in Savidug is considered to be the most beautiful and perfectly shaped among the Batanes indjangs."
+			},
+			{
+				"name": "Imnajbu Village",
+				"desc": "Site where the first Catholic mass and baptism was celebrated in Batanes during the Spanish period.  The barrio chapel was named after San Lorenzo Ruiz, the first Fililpino saint."
+			}
+		]
+	},
+	{
+		"id": "natural",
+		"title": "Natural Sites",
+		"sites": [
+			{
+				"name": "Mt. Iraya ",
+				"desc": "Towering over Basco at approximately 1,009 feet above sea level, this dormant volcano is the first attraction you will see upon landing at the airport.  To get a picture-perfect view, timing and patience are required since its peack is almost covered by clouds.  It is challending climb for mountaineers because of its abundant endemic flora and fauna.  It is also the source of the spring water which supplies households in Basco."
+			},
+			{
+				"name": "Basco Rolling Hills",
+				"desc": "There are seemingly endless waves of rolling hills which boasts of the perfect combination of landscapes and seascapes which can be enjoyed from afar but is best experienced when explored on foot.  The site is the best vantage point for an unhampered view of the province's three major islands."
+			},
+			{
+				"name": "Chanpan/Valugan Boulder Beach",
+				"desc": "The rock bay is popularly known for its long stretch of boulders due to Mt. Iraya's eruption in 400 AD.  The rock formation, smoothed over time by the strong Pacific waves, presents a panoramic link betweeb the sea horizon and Mt. Iraya."
+			},
+			{
+				"name": "Kural Marine Sanctuary",
+				"desc": "The diversity of marine life makes it one of the best, yet undiscovered dive sites in the country.  It is also ideal for swimming, snorkeling, camping, boating, picnicking, or simply communing with nature."
+			},
+			{
+				"name": "Diura Fishing Village",
+				"desc": "A sitio in the town’s eastern part where an association of fishermen called mataw practice the traditional fishing for Arayu (dorado) They still observe the ritual kapayvanuvanua signifying the start of the fishing season in March."
+			},
+			{
+				"name": "Racuh-a-idi Spring of Youth",
+				"desc": "A manmade pool with a view of the Pacific Ocean and Mt. Iraya, it is ideal for picnics because of the spring water which emanates and the cozy environs."
+			},
+			{
+				"name": "Racuh a Payaman",
+				"desc": "Christened by American tourists as Marlboro Country because of its contour, the endless rolling hills, wind-swept communal pasturelands for cows, carabaos and horses are perfect sceneries for nature lovers and photographers."
+			},
+			{
+				"name": "Alapad",
+				"desc": "Offers a captivating view of rolling hills and the vast expanse of the sea made popular by the movie “Hihintayin kita sa langit” which starred Richard Gomez and Dawn Zulueta."
+			},
+			{
+				"name": "Vuhus Island ",
+				"desc": "An uninhabited islet of Sabtang with a fine coral beach on the eastern side, and the shores on both sides of the channel are bordered by reefs. The islet is used as pastureland for cows, carabaos, and goats by the people of Sabtang."
+			},
+			{
+				"name": "Duvek Bay ",
+				"desc": "tucked inside Brgy. Sumnanga where remnants of Ivatan houses are being restored, this cove boasts of the most pristine corals in Batanes."
+			},
+			{
+				"name": "Mt. Karoboban ",
+				"desc": "Highest point in Itbayat, about 280 meters above sea level.  Its historical significance is being the other pair of Mr. Riposed, considered to have been the foundation of Itbayat, it affords a breathtaking panorama of the different parts of the island."
+			},
+			{
+				"name": "Rapang Cliff ",
+				"desc": "A natural park comprised of forest, cliff and rocky hills where bonsai arius trees abound along a grazing area for goats. A unique formation is a flat stone which lies naturally upon another stone, which, when you strike with another stone produces a bell-like sound. Accordingly, it served as an alarm for the ancient inhabitants against approaching enemies, and a signal for community meeting and for gathering goats."
+			},
+			{
+				"name": "Ahao (Stone Arch)/ Morong Beach",
+				"desc": "one of the iconic and most photographed spots in Batanes because of its rock arch formation in a beach cove, and is an ideal site for picnic, snorkeling, and camping."
+			},
+			{
+				"name": "Siayan Island",
+				"desc": "Acknowledged as one of the most beautiful spots in Itbayat, this is an 87.63-hectares island surrounded by beautiful white beaches, it is surrounded by a rich coral reef which is sanctuary to lush marine life."
+			},
+			{
+				"name": "Manoyok",
+				"desc": "A sinkhole serves as the town’s giant drainage, it was explored by a German Dr. Gechard Schmith in 1993 and was found to be around 45-meter deep and has two big chambers with a narrow passage in between. Manoyok is found to be a haunted sinkhole because it is where the ancient Ivatans threw witches as punishment according to the old justice system."
+			},
+			{
+				"name": "Kumayasakas Cave River",
+				"desc": "An underground stream which flows to the sea and is a newly-developed water source for the community."
+			}
+		]
+	},
+	{
+		"id": "recreational",
+		"title": "Recreational Sites",
+		"sites": [
+			{
+				"name": "Tayid Lighthouse",
+				"desc": "Erected in 2000, this colonial-looking beacon offers a spectacular view of the Pacific Ocean, as well as other parts of Batan Island and its rugged mountain cliffs facing the West Philippine Sea."
+			},
+			{
+				"name": "Chawa View Deck",
+				"desc": "A perfect spot to enjoy Batanes sunset facing the West Philippine Sea where one can descend more than a hundred steps down the adjacent cliff to fish, take pictures, or frolic in the waters."
+			},
+			{
+				"name": "Tukun",
+				"desc": "Location of the country's northernmost PAGASA station, reason why Batanes is frequently associated with typhoons because Basco station is usually used as a reference point.  It has a spectacular view of Mount Iraya and Basco town, with a commanding view of Batan hedgerows.  One can view 360o of Batan island."
+			},
+			{
+				"name": "Honesty Coffee Shop",
+				"desc": "An unmanned refreshment store which has become famous worldwide for showcasing Ivatan’s honesty. There is no standby seller, the owners rely on the honesty of its customers when paying for goods taken from the store."
+			},
+			{
+				"name": "Disvayangan Beach Front",
+				"desc": "A row of private picnic houses with basic facilities, it is the best beachfront spot in this part of the town.  The place is adjacent to a government-operated recreation building featuring two bowling lanes and a billiards room."
+			},
+			{
+				"name": "Maydangeb Beach",
+				"desc": "A cove with multi-colored rocks and white/cream colored sand, which is ideal for picnics, beach combing and beach sports. It is located along the national highway about 9 kilometers from Basco and is being maintained by both Mahatao and Ivana Local Government Units (LGU’s)."
+			}
+		]
+	}
+]

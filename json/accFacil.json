@@ -1,0 +1,452 @@
+[
+    {
+        "id": 0,
+        "name": "fundacion pacita batanes nature lodge",
+        "accreditationNo": "HTL-RO2-00000-2015",
+        "manager": "Protogenes Galarion",
+        "contactNo": "0939-198-2733/0939-901-6353",
+        "email": "",
+        "website": "www.fundacionpacita.com",
+        "address": {
+            "street": "",
+            "brgy": "Chanarian-Tukon",
+            "municipality": "Basco"
+        },
+        "_id": "mgomCYyVJuaCoakY"
+    },
+    {
+        "id": 1,
+        "name": "batanes resort",
+        "accreditationNo": "",
+        "manager": "Elmo C. Merin",
+        "contactNo": "0999-9907-554",
+        "email": "batanes_resort2011@yahoo.com",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "jAiMcemzIgqemNWo"
+    },
+    {
+        "id": 2,
+        "name": "amboy's hometel",
+        "accreditationNo": "TIN-RO2-00000450-2015",
+        "manager": "Marivic Amboy",
+        "contactNo": "0917-871-7633/ 0939-643-8982/ 0920-910-3492",
+        "email": "amboy_hometel@yahoo.com",
+        "website": "www.amboyhometel.com",
+        "address": {
+            "street": "",
+            "brgy": "Chanarian",
+            "municipality": "Basco"
+        },
+        "_id": "1cxYIHSj7nvNIQJN"
+    },
+    {
+        "id": 3,
+        "name": "batanes seaside lodge & restaurant",
+        "accreditationNo": "TIN-R02-00000444-2015",
+        "manager": "Rowena M. Nuñez",
+        "contactNo": "0999-992-4977/ 0977-143-6997/ 0999-994-2313",
+        "email": "batanesseasidelodge2yahoo.com/ reservation.bslr@gmail.com",
+        "website": "www.batanesseasidelodge.com",
+        "address": {
+            "street": "National Road",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "VRprsZFqmP0s6aiT"
+    },
+    {
+        "id": 4,
+        "name": "bernardo's hotel",
+        "accreditationNo": "TIN-R02-00000428-2015",
+        "manager": "Thea M. Ordas",
+        "contactNo": "0917-512-5346/ 0908-816-4511",
+        "email": "bernardoshotel@gmail.com/bernardoshotel@yahoo.com",
+        "website": "",
+        "address": {
+            "street": "Pain St.",
+            "brgy": "Chanarian",
+            "municipality": "Basco"
+        },
+        "_id": "xBexPsi3JaNukath"
+    },
+    {
+        "id": 5,
+        "name": "midtown inn",
+        "accreditationNo": "TIN-R02-00000455-2015",
+        "manager": "Jacquelyn Hubalde",
+        "contactNo": "0921-367-7933/ 0926-550-0433/ 02-359-3032",
+        "email": "midtowninn.batanes@gmail.com",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayhuvokan",
+            "municipality": "Basco"
+        },
+        "_id": "ocj72fhABsFKY43w"
+    },
+    {
+        "id": 5,
+        "name": "ddd habitat",
+        "accreditationNo": "PEN-R02-00000344-2015",
+        "manager": "Monica P. Fadullo",
+        "contactNo": "0908-505-4765/ 0908-436-9547/ 02-330-4973",
+        "email": " DDDHabitat@yahoo.com",
+        "website": "",
+        "address": {
+            "street": "Lopez st.",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "u7DzXMcRraT03pYk"
+    },
+    {
+        "id": 6,
+        "name": "martin's inn",
+        "accreditationNo": "PEN-R02-00000352-2015",
+        "manager": "Martin Hegenio C. Querubin M.D.",
+        "contactNo": "0916-232-3590/ 0919-222-8898",
+        "email": "drgquerubin@yahoo.com.ph",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "MQXFdRlmjJ5DF9Xd"
+    },
+    {
+        "id": 7,
+        "name": "marfel lodge pension house",
+        "accreditationNo": "PEN-R02-00000362-2015",
+        "manager": "Filomena Fitero",
+        "contactNo": "0908-89-1745/ 0920-976-4966/ 0917-857-4493/ 0917-883-3249",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "De Padua St.",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "WYAFv13ug9U8ZjlD"
+    },
+    {
+        "id": 8,
+        "name": "florabell's iraya guest house",
+        "accreditationNo": "PEN-R02-00000375-2015",
+        "manager": "Fidelicisimo Ponce",
+        "contactNo": "0929-1660-223",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "lOlQz5XgEgY7SDm3"
+    },
+    {
+        "id": 9,
+        "name": "palangud homestay",
+        "accreditationNo": "PEN-R02-00000373-2015",
+        "manager": "Florecita P. Ballester",
+        "contactNo": "0939-919-3616",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "jApVeIZl47MDhh9N"
+    },
+    {
+        "id": 9,
+        "name": "my father's inn",
+        "accreditationNo": "HSS-R02-00000312-2015",
+        "manager": "Amando P. Pacapac",
+        "contactNo": "0999-995-8253/ 0920-543-0580",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "dXCJFUBcx22h9Elo"
+    },
+    {
+        "id": 10,
+        "name": "jarvan homestay",
+        "accreditationNo": "HSS-R02-00000220-2015",
+        "manager": "Ruth L. Pacana",
+        "contactNo": "0908-8622-447/ 0929-246-5979",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "kIWxoqbxU7UYzKjH"
+    },
+    {
+        "id": 11,
+        "name": "pajudpud homestay",
+        "accreditationNo": "HSS-R02-00000211-2015",
+        "manager": "Adoracion C. Pajudpud",
+        "contactNo": "0907-2828-642",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "RL5xITakFlVJbCb9"
+    },
+    {
+        "id": 12,
+        "name": "necy's inn",
+        "accreditationNo": "HSS-R02-00000207-2015",
+        "manager": "Eunicia P. Gato",
+        "contactNo": "0999-995-4231",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "San Antonio",
+            "municipality": "Basco"
+        },
+        "_id": "UxJFUOOcTHZfm8Su"
+    },
+    {
+        "id": 13,
+        "name": "cmj homestay",
+        "accreditationNo": "HSS-R02-00000205-2015",
+        "manager": "Ramonito D. Imperial",
+        "contactNo": "0999-990-7548/ 0919-995-0137",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "Dita St.",
+            "brgy": "Kayhuvokan",
+            "municipality": "Basco"
+        },
+        "_id": "iJKHcxgAtMN6ALF6"
+    },
+    {
+        "id": 14,
+        "name": "villa bella",
+        "accreditationNo": "HSS-R02-00000208-2015",
+        "manager": "Esperanza Genetiano",
+        "contactNo": "09029-443-6866",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Radiwan",
+            "municipality": "Ivana"
+        },
+        "_id": "FPGymol3E0UxOWpf"
+    },
+    {
+        "id": 15,
+        "name": "atunay homestay",
+        "accreditationNo": "HSS-R02-00000223-2015",
+        "manager": "Leocadia Atunay",
+        "contactNo": "0939-9186-506",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayhuvokan",
+            "municipality": "Basco"
+        },
+        "_id": "9NJbij7vKQefoiuL"
+    },
+    {
+        "id": 16,
+        "name": "asa's homestay",
+        "accreditationNo": "HSS-R02-00000231-2015",
+        "manager": "Carmen T. Asa",
+        "contactNo": "0949-1299-914",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "0YCMWPYr2921UDfM"
+    },
+    {
+        "id": 17,
+        "name": "babat homestay",
+        "accreditationNo": "HSS-R02-00000183-2014",
+        "manager": "Eduardo De Borja/Luzviminda Gecha",
+        "contactNo": "0919-987-0806",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "pBYObYPNW8LImgPf"
+    },
+    {
+        "id": 18,
+        "name": "berlen homestay",
+        "accreditationNo": "HSS-R02-00000222-2015",
+        "manager": "Elena Villarta",
+        "contactNo": "0920-478-4003",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayhuvokan",
+            "municipality": "Basco"
+        },
+        "_id": "TDgCKNe0LDHcuQXC"
+    },
+    {
+        "id": 19,
+        "name": "jarvan homestay - annex",
+        "accreditationNo": "HSS-R02-00000221-2015",
+        "manager": "Ruth L. Pacana",
+        "contactNo": "0908-8622-447",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "1BuHK3pfZebyN7bq"
+    },
+    {
+        "id": 20,
+        "name": "marfel lodge (annex)",
+        "accreditationNo": "",
+        "manager": "Filomena Fitero",
+        "contactNo": "0908-89-1745/ 0917-883-3249",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "4DzM3mn7NLctUcrk"
+    },
+    {
+        "id": 21,
+        "name": "marfel lodge (main)",
+        "accreditationNo": "HSS-R02-00000210-2015",
+        "manager": "Filomena Fitero",
+        "contactNo": "0908-89-1745/ 0920-976-4966",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "DTIMyurMDpUSzebD"
+    },
+    {
+        "id": 22,
+        "name": "novita house",
+        "accreditationNo": "HSS-R02-00000209-2015",
+        "manager": "Corsorcia V. Thesalyn Valiente/ Remedios Santos",
+        "contactNo": "0928-239-7629",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "Abuyo St.",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "RGNdMpAjguaqmXrd"
+    },
+    {
+        "id": 23,
+        "name": "timetravel lodge",
+        "accreditationNo": "HSS-R02-00000206-2015",
+        "manager": "Leah C. Padilla",
+        "contactNo": "0907-433-5610/ 0905-318-5375",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "9rR2gyQrCHeRBcTO"
+    },
+    {
+        "id": 24,
+        "name": "pañisanan du takey",
+        "accreditationNo": "HSS-R02-00000233-2015",
+        "manager": "Lorenzo M. Lizardo/ Florecita Mernelo",
+        "contactNo": "0919-329-2363",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Chanarian",
+            "municipality": "Basco"
+        },
+        "_id": "Ly7U5s8U9P0JBKcQ"
+    },
+    {
+        "id": 25,
+        "name": "savatan homestay",
+        "accreditationNo": "HSS-R02-00000229-2015",
+        "manager": "Agnes V. Delfin",
+        "contactNo": "0939-906-3063",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "Y1A0fjH5YKys1mKi"
+    },
+    {
+        "id": 26,
+        "name": "davocol's homestay",
+        "accreditationNo": "HSS-R02-00000247-2015",
+        "manager": "Lilibeth T. Davocol",
+        "contactNo": "0920-4470-738",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayhuvokan",
+            "municipality": "Basco"
+        },
+        "_id": "aPRytanwhQ9OdUtj"
+    },
+    {
+        "id": 27,
+        "name": "wakay homestay",
+        "accreditationNo": "HSS-R02-00000245-2015",
+        "manager": "Segundo V. Horcajo",
+        "contactNo": "0919-317-4794",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "ncxVwgKTbr3Ez57T"
+    }
+]

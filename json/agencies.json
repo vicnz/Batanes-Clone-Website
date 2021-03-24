@@ -1,0 +1,137 @@
+[
+    {
+        "id": 0,
+        "name": "batanes travel and tours",
+        "accreditationNo": "TOP-R02-00001751-2014",
+        "owner": "Dominic Castillejos",
+        "contactNo": "0915-201-2755/ 0998-984-4359",
+        "email": "batanestours@yahoo.com/ Info@batanestravelandtours.com",
+        "website": "www.batanestravelandtours.com",
+        "address": {
+            "street": "Amboy St.",
+            "brgy": "Kayhuvokan",
+            "municipality": "Basco"
+        },
+        "_id": "F4Ku7xPvvB7z92cx"
+    },
+    {
+        "id": 1,
+        "name": "batanes culture travel agency",
+        "accreditationNo": "",
+        "owner": "Rossane C. Mendoza",
+        "contactNo": "0917-779-5137/ 0998-562-9982/ (02) 475-5267",
+        "email": "elinore@batanestravel.com/ aja@batanestravel.com",
+        "website": "",
+        "address": {
+            "street": "National Road",
+            "brgy": "Kayhuvokan",
+            "municipality": "Basco"
+        },
+        "_id": "Ot4yzfDxFsZPNJcG"
+    },
+    {
+        "id": 2,
+        "name": "batanes wakay travel & tours, inc",
+        "accreditationNo": "TOP-R02-00001492-2014",
+        "owner": "Ramon Jerry Cabalce",
+        "contactNo": "0917-591-2393/ 0917-525-4354/ 0908-879-6392-02-985-5017/ 02-954-2560",
+        "email": "bataneswakay@gmail.com",
+        "website": "www.bataneswakay.com",
+        "address": {
+            "street": "National Road",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "SoZWeWmitzVFz1yT"
+    },
+    {
+        "id": 3,
+        "name": "ivatan travel and tours",
+        "accreditationNo": "TOP-R02-00001649-2014",
+        "owner": "Luzviminda Cartaño",
+        "contactNo": "0906-224-8658/ 0929-525-0818/ 710-5006",
+        "email": "Ircivatantravel@yahoo.com.ph/ Ivatan_travel@yahoo.com",
+        "website": "www.bataneswakay.com",
+        "address": {
+            "street": "",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "z9XcqmHLuu0mNghF"
+    },
+    {
+        "id": 4,
+        "name": "agn iraya travel and tours",
+        "accreditationNo": "",
+        "owner": "Aludia Grace Nola",
+        "contactNo": "0998-972-0711/ 0917-867-1825/ 245-6288",
+        "email": "info@irayatravelandtours.com",
+        "website": "www.irayatravelandtours.com",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "KahgjwqfDHFrKUQz"
+    },
+    {
+        "id": 5,
+        "name": "asl escapade travel and tours",
+        "accreditationNo": "TOP-R02-00002189-2015",
+        "owner": "Carlos Lizardo",
+        "contactNo": "0908-359-7303",
+        "email": "aslescapade@yahoo.com",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "8PFcvJpnzpw20Ufs"
+    },
+    {
+        "id": 6,
+        "name": "amboy hometel tours and services",
+        "accreditationNo": "TOP-R02-0000220-2-2015",
+        "owner": "Marivic Amboy",
+        "contactNo": "0917-871-7633/ 0939-643-8982/ 0977-120-3285",
+        "email": "",
+        "website": "",
+        "address": {
+            "street": "",
+            "brgy": "Chanarian",
+            "municipality": "Basco"
+        },
+        "_id": "HekjS9IvutwIyW7C"
+    },
+    {
+        "id": 7,
+        "name": "bisumi tour & services",
+        "accreditationNo": "TOP-R02-00002617-2015",
+        "owner": "Ryan Cardona",
+        "contactNo": "0919-2795-963/ 0915-8034-582",
+        "email": "ryan.batanes@gmail.com",
+        "website": "www.discoverbatanes.com",
+        "address": {
+            "street": "",
+            "brgy": "Kayvaluganan",
+            "municipality": "Basco"
+        },
+        "_id": "tYBmcGwBctPFSIwV"
+    },
+    {
+        "id": 8,
+        "name": "batanes seaside tour & services",
+        "accreditationNo": "TOP-R02-00002616-2015",
+        "owner": "Jehanna Ponciano",
+        "contactNo": "0999-992-4977/ 0977-143-6997",
+        "email": "seasidetoursandservices@yahoo.com",
+        "website": "",
+        "address": {
+            "street": "National Road",
+            "brgy": "Kaychanarianan",
+            "municipality": "Basco"
+        },
+        "_id": "8F3iVo7bj3IMRhrU"
+    }
+]

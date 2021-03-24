@@ -1,0 +1,112 @@
+[
+    {
+        "id": "provinceProfile",
+        "title": "Provincial Profile",
+        "content": {
+            "capital": "basco",
+            "population": "16,604 (2010 Census)",
+            "populationDensity": "73km<sup>2</sup>",
+            "growthRate": "1.31%",
+            "physicalFeature": "Batanes is composed of three inhabited islands namely, Batan, Itbayat, Sabtang. The islands are generally hilly and mountainous except the main island which has some stretches of narrow coastal plains.",
+            "landArea": {
+                "hectares": 23000,
+                "kilometersSquare": 230
+            },
+            "seaArea": 450000,
+            "administrative": {
+                "desc": "Batanes is the smallest province of Region 2. It has six municipalities namely",
+                "districts": [
+                    "Basco",
+                    "Itbayat",
+                    "Ivana",
+                    "Mahatao",
+                    "Sabtang",
+                    "Uyugan"
+                ]
+            },
+            "peopleCulture": "Batanes is home to the <em>Ivatans</em> of Malay stock, the Ivatans are nationally acclaimed as the “True Insulares“ having kept the purity of their gene pool, from as far back as 16<sup>th</sup> Century, and preserved their rich history and cultural heritage.",
+            "climate": "Tropical with temperatures ranging from 24&deg;C to 32&deg;C, March to May is hot and dry, June to October is rainy, November to February is cool. Tropical monsoons and typhoons are common from June to November",
+            "language": "Ivatan/Filipino/English",
+            "literacyRate": "95%",
+            "religion": "Catholic",
+            "employmentRate": "97%",
+            "banking": "LandBank (Basco), PNB (Basco)"
+        }
+    },
+    {
+        "id": "visionMission",
+        "title": "Mission & Vission",
+        "content": {
+            "vission": "A healthy and resilient community of peaceful and God loving people whose cultural integrity is maintained and commonly pursuing a sustainable development in a progressive, self-reliant and democratic society",
+            "mission": "We shall endeavor to preserve and promote the distinct Ivatan culture; develop eco-cultural tourism, agriculture and fishery potential; undertake capability building activities and promote the sustainable use of our natural resources that wil provide for a productive and healthy community." 
+        }
+    },
+    {
+        "id": "historicalBG",
+        "title": "Historical Background",
+        "content": [
+            "Batanes is gaining international significance as a potential early stepping stone in the dispersal of Austronesian peoples in what many scholars consider to be the widest migration of humans in history.",
+            "The <strong>Austronesian</strong> race is the larger ancestral family from where the modern peoples of South East Asia and Oceania descended. World knowledge about the Austronesians increased in recent decades as a result of scholarly studies.",
+            "The <strong>Austronesians</strong> started a wide scale migration out of their homeland in Taiwan during the Neolithic period between 5000-2,500 BC (or about 7000-4500 years ago) and settled in territories as far as Easter Island in the East, Madagascar in the West, Hawaii in the North and New Zealand in the south. Wherever they went they established themselves as the dominant race and culture. Today <strong>Austronesians</strong> number about 380 million, including Indonesians, Malays and Filipinos.",
+            "Batanes was settled early in this pattern of migration. The first <em>Ivatans</em>, as the natives of Batanes are now called, were in fact early Austronesians from Taiwan that came 4,500 years ago, based on archeological studies of Dr. Peter Bellwood of the Australian National University. From the same study Bellwood indicated that Indonesia was settled a thousand years later, based on archaeological evidence.",
+            "Batanes could give clues about how the early <strong>Austronesians</strong> migrated and lived. These clues are in various archaeological sites in the province that are now subjects of preservation efforts. The dwelling place of the first Austronesians settlers in Batanes was <em>Torongan</em> cave in Itbayat.",
+            "The early Ivatan natives evolved into a system of governance in the pattern of a baranganic society, with clear hierarchy of officials and members, and defined roles and functions much like that found in a boat crew.",
+            "There were four classes of people in the prehistoric Batanes society: the Mampus, the Mapalons the Cailianes, and the Slaves. The <em>Mampus</em> (also Mangpus) and the <em>Mapalons</em> (also Mapolons) were the Principales who were the leaders and the most prominent people, forming the elite class of society.",
+            "Each cluster of houses or town was ruled by the <em>Mampus/Mangpus</em> who held supreme, absolute and independent power. His domain was divided into barangays (idi’ in Batan and Sabtang and hili’ in Itbayat), a group of people whose head was a <em>Mapalon/ Mapolon</em>. Under the mapolones were subjects called <em>cailianes</em>.",
+            "There were no slaves by birth. One became a slave if he could not pay a debt or if caught stealing. If he belonged to a higher class, he became one of the <em>cailianes</em>. This brought about a change of status.",
+            "Before contact with westerners, the natives lived in hilltop fortresses called <em>idjangs</em>, around or on which they built compact settlements. ",
+            "In 1687, a crew of English freebooters headed by <strong>William Dampier</strong> reached Batanes after they were driven by strong winds off their course to Manila from Mindanao. They didn’t stay very long and didn’t claim the islands for the British crown. But Dampier’s writings revealed clearly the way of life of the natives before the Spaniards came, including their pattern of settlements around the <em>idjangs</em>.",
+            "They found the islands to be fertile with a rich harvest of bananas, pineapples, pumpkins, sugar canes and cotton. There were also plenty of goats, pigs, but a few tame and wild fowls.",
+            "The men wore just a loin cloth and the women wore skirt long enough to cover the knee.  Both men and women wore large earrings made of a pale yellow metal. ",
+            "Their houses were low and small. Because the weather can be very cold during the months of August to March, there was a fireplace on one end of their house. They place boards on the ground to lie on.",
+            "The houses were built close to each other on the sides and tops of rocky hills with 3 or 4 rows of houses built one above the other on steep terraced precipices. They go up to the first row with a wooden ladder and use another to go up the next terrace since there was no other way to climb to the next. By drawing up the ladder when they are attacked, there is no way to reach them but the perpendicular precipice at the back of the rocky hill. They take care to build on the side of such a hill, whose backside hangs over the sea which is totally inaccessible. They did not care to build much except in these rocky fortresses preferring to live in there for security reasons. ",
+            "They were excellent boat builders with fishing and sailing as the men folk’s main preoccupation. They also drank a lot of wine from the juice of the sugar.  This drink seemed to be very strong but good to drink.",
+            "The children respected and obeyed their parents. They lived a serene life with the boys going out fishing with their fathers and the girls staying with their mothers at home. It is only when they are grown up that these girls are sent to the fields to gather yams and potatoes which they carry in baskets on their heads to prepare as food for the whole family. Every man has a field of his own which he cultivates for sustenance for the family.",
+            "In 1686 Spanish missionaries came and in 1783, Batanes was annexed to Spain became its last colonial outpost in the East, under the auspices of Governor-General <em>José Basco y Vargas</em>.",
+            "During the Spanish occupation, the Ivatans were enticed to leave their mountain fortresses and live in well planned lowland towns and settlements following <em>King Philip II’s Law of the Indies</em>. Today, remnants of the abandoned idjangs and the terraced settlements are still visible and are being conserved.",
+            "The Spaniards introduced a unitary government with a governor at the helm. This ended tribal warefares and ushered in a period of peace.",
+            "The Spaniards also introduced the use of the mortar, a combination of lime and stone to build walls of houses and public buildings. Houses of pre-Spanish era Ivatans were made of wood or thick cogon walls and roofs. With the new technology, they switched to mortar walls but retained their thick cogon roofing. Today the town settlements still retain these vernacular stone houses built during the Spanish era and in the last century. Some settlements also still use cogon for walls.",
+            "The vernacular stone houses of Batanes are well adapted to typhoons and strong winds that batter the islands. Because of the materials used and the thick walls (about meter), they are cool during summer and warm during the cold months. They also do not cave in during earthquakes. These houses are superior to modern day materials and designs that are more vulnerable to disasters.",
+            "It is said that no one dies of typhoons in Batanes. This is attributable to the sturdy houses of the Ivatans, along with the latter’s ability to decipher their unpredictable weather.",
+            "The Spanish also capitalized on the inherently cooperative spirit of the Ivatans. They exacted free labor and obliged them to work in teams on public infrastructures. This custom carried over to the building of the stone vernacular houses and pervaded every other aspect of the Ivatan way of life.",
+            "There is a cooperative tradition in every aspect of the Ivatan’s life. Marriages, births, burials, house building, roof repair, farming, fishing, emergency civil works and disaster rehab, etc. are all undertaken with volunteer labor, whether organized or spontaneous. These traditions are still alive but are eroding. They are being conserved as part of the cultural heritage of Batanes.",
+            "Towards the end of the Spanish regime, Batanes was made a part of Cagayan. In 1909, however, the American authorities organized it into an independent province. Because of its strategic location, the Batanes island group was one of the first points occupied by the invading Japanese imperial forces at the outbreak of the Pacific War.",
+            "During the American colonial period, public schools suddenly boomed, and more Ivatans became more aware of their place in the Philippines.",
+            "Today Batanes stands as a unique and outstanding testimony to the evolution of the Austronesian race over thousands of years and the enriching influences of Spanish and other cultural spheres.",
+            "Batanes has been nominated for inscription into the UNESCO World Heritage Sites List as a Cultural Landscape. A cultural landscape bears witness to the combined works of man and nature which produced outstanding values for mankind.",
+            "The outstanding features of Batanes as a cultural landscape are its hedgerows and its sustainable farming systems, its sustainable fishing practices, its cooperative traditions, its communal ownership of precious resources such as pasture and cogonal lands, its traditional settlements of vernacular houses and its priceless archaeological sites.",
+            "Together these features depict a native people at their native best in mastering a harsh environment and fashioning out a dignified, sustainable existence even in isolation.",
+            "The Ivatans of today speak the <em>Ivatan</em> language on the islands of Batan and Sabtang, and <em>Ichbayaten</em>, on the island of Itbayat. These are not dialects of the Filipino language but are distinct languages in the Austronesian family of languages. English, however is used as a medium of instruction in schools, along with Filipino, also an Austronesian language based on Tagalog.",
+            "The Ivatan language has been described by linguists as having a staggering morphological complexity, but is threatened as younger Ivatans increasingly speak Filipino. It is also part of the Ivatan cultural heritage that needs to be preserved.",
+            "The Ivatans of today have retained the values of their ancestors that made them exceptional in the eyes of William Dampier. With the influence of religion in the past 200 years and continuing education in the last 100, these values have been further strengthened.",
+            "The Ivatans are described as peaceful, God-loving, honest, resilient, helpful, cheerful, and gentle but hardy and hardworking, traits that no doubt were shaped by the environment, religion, education and their unique evolution as a people.",
+            "Batanes is described as the most peaceful place in the Philippines, A place that is pure and timeless."
+        ]
+    },
+    {
+        "id": "thingsToKnow",
+        "title": "Things To Know!",
+        "content": [
+            "Batanes is the only province in the Philippines declared in its entirety as a Protected Landscape and Seascape area by the following <br/> <strong>RA 7586, NIPAS Act of 1992</strong>, <strong>Presidential Proclamation No. 335 Series of 1994</strong>, <strong>RA 8991 in 2000</strong>",
+            "The Ivatans are indigenous peoples governed and protected by the <strong>IPRA Law of 1997</strong>",
+            "In 2010, Batanes was declared by DA and DOH as a Rabies Free Zone and was awarded by the National Nutrition Council in 2012. A seal of Good Housekeeping was also awarded to the province by <strong>DILG</strong> in 2011.",
+            "Religion: Approximately 97% of the Ivatans are Roman Catholics and they appreciate visitors observing conservative dress code whenever they enter their churches.",
+            "Weather: Even during summer, weather in Batanes is relatively cooler than the rest of the Philippines.  The coolest months are from December to March where temperatures fall below 10&deg;C, Dry months are from late March to June.",
+            "Landbank and PNB ATMs are available in Basco.  You may opt not to bring your credit cards with you as you are expected to pay in cash all the time.  You may convert your US dollars into Peso at the Philippine National Bank in Basco.",
+            "There are no specific greetings for any specific time of the day.  Older men and women are your “Uncles” and “Aunts” in Batanes. It is an accepted way to say hello. “Kapian ka pa nu Dios” is also used as greeting any time of the day."
+        ]
+    },
+    {
+        "id": "howToGetThere",
+        "title": "How To Get There?",
+        "content": [
+            "The fastest way to Batanes from Manila is to take an hour and a half flight via PAL (daily) and Skyjet (MWF) and via Sky Pasada (MTThS) and Northsky (MWF) from Tuguegarao City.",
+            [
+                {"service": "PAL", "schedule": "Daily", "duration": "1<sup>1/2</sup>", "destination": "Manila - Basco"},
+                {"service": "SkyJet", "schedule": "MWF", "duration": "1<sup>1/2</sup>", "destination": "Manila - Basco"},
+                {"service": "Sky Pasada", "schedule": "MTThS", "duration": "1<sup>1/2</sup>", "destination": "Manila - Basco"},
+                {"service": "NorthSky", "schedule": "MWF", "duration": "1<sup>1/2</sup>", "destination": "Tuguegarao City - Basco"}
+            ]
+        ]
+    }
+]

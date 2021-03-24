@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Kamanidungan",
+        "description": "An association founded by elders to enhance community life and cooperation, which is usually reserve for difficult tasks, usually the kapayatep or the replacement of the cogon roofs where volunteers give their service for free.",
+        "_id": "1HKsu8gWTCYRpxO9"
+    },
+    {
+        "name": "Kalusan",
+        "description": "A song usually sung while working in the fields or sawing tree trunks to lift the spirit of the workers, make the task lighter and enhance bonding.",
+        "_id": "U9SOlpmGwUSDY6QF"
+    },
+    {
+        "name": "Payuhuan",
+        "description": "cooperative farming system where neighbors, relatives and friends provide free labor for land clearing and planting",
+        "_id": "MuZF6tR296jX1moo"
+    },
+    {
+        "name": "Pitotolongan",
+        "description": "cooperative house building system in Itbayat under similar terms as kamaňidungan, tends to be more organized",
+        "_id": "6dsVaJpbUohbQUpg"
+    },
+    {
+        "name": "Kayvaynanan",
+        "description": "literally means doing things as friends, a more spontaneous or less organized form of helping during house construction or planting where neighbors, friends and community members come unannounced. Popular in Basco.",
+        "_id": "IDA6CJqXPgcSFXAt"
+    },
+    {
+        "name": "Mataw",
+        "description": "cooperative fishing for dorado during the months of April – June; fisherfolks and their passages to the sea are a cleansed through a ritual at the beginning of the season. An ending ritual “closes their boat passage.",
+        "_id": "DJjKPq2DZz4WArs1"
+    },
+    {
+        "name": "Laji",
+        "description": "an oral literary-musical tradition where a short poem or story is sang according to a definite musical arrangement/melody",
+        "_id": "w4K1YUUAh3NMF0w7"
+    },
+    {
+        "name": "Yaru",
+        "description": "spontaneous response of community members when called to render volunteer work during periods of calamities, disasters or when civil works are undertaken by the community.",
+        "_id": "HFQPgnLYRx94QEs9"
+    },
+    {
+        "name": "Sustainable Agriculture Practices",
+        "description": "Field rotation, land fallowing with shrub reforestation – cultivation of adjacent parcels of land, not at the same time but in sequence over a period of 3-5 years, allowing the land to rest and regenerate.",
+        "_id": "Bncsfs1IvTtr4qUW"
+    },
+    {
+        "name": "Organic Farming",
+        "description": "zero use of chemical inputs",
+        "_id": "IomBFV9IbTQnVmBD"
+    }
+]
